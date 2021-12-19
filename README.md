@@ -10,4 +10,4 @@ https://youtu.be/s7wmiS2mSXY
 
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
 
-### Tapşırığınız homework.mp4 faylında izah olunub.
+### Tapşırığınız 2021-12-19 22-36-36.mp4 faylında izah olunub.
